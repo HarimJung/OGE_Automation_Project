@@ -161,4 +161,4 @@ This project is maintained for UNICEF Angola. For questions or improvements, ple
 
 ## 📄 9. License
 
-This project is developed for UNICEF Angola internal use.
+This project is developed for UNICEF Angola internal project proposal and use.
