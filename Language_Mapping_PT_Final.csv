@@ -1,0 +1,19 @@
+English_Key,Field_Type,Portuguese_Translation
+Health,Sector,Saúde
+Education,Sector,Educação
+Social Protection,Sector,Proteção Social
+Infrastructure,Sector,Infraestrutura
+Rural Development,Sector,Desenvolvimento Rural
+Child Focus,Policy_Tag,Foco na Criança
+Gender Impact,Policy_Tag,Impacto de Gênero
+Climate Impact,Policy_Tag,Impacto Climático
+Not Tagged,Policy_Tag,Não Classificado
+Approved,Budget_Type,Aprovado
+Proposed,Budget_Type,Proposto
+Approved_Local_Currency,Metric,Orçamento Aprovado (Moeda Local)
+Approved_USD,Metric,Orçamento Aprovado (USD)
+Quarter 1,Quarter,Trimestre 1
+Quarter 2,Quarter,Trimestre 2
+Quarter 3,Quarter,Trimestre 3
+Quarter 4,Quarter,Trimestre 4
+Total OGE Growth (YoY),Metric,Crescimento OGE Total (YoY)
